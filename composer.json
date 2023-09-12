@@ -1,5 +1,5 @@
 {
-    "name": "cakephp/acl",
+    "name": "yiniguez/acl",
     "description": "Acl Plugin for CakePHP framework",
     "type": "cakephp-plugin",
     "keywords": [
